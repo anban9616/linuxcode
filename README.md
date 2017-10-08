@@ -1,2 +1,0 @@
-# linuxcode
-storage my linuxcode
